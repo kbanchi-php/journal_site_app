@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+label {
+    display: block;
+}
+
+.button-group {
+    display: flex;
+}
+
+.button-group button {
+    margin-right: 10px;
+}
+
+.article {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.error {
+    color: red;
+}
